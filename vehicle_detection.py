@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+# Copy opencv_ffmpeg310.dll from opencv\build\bin to C:\Python27
 import cv2
 print(cv2.__version__)
 
